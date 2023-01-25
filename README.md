@@ -1,1 +1,3 @@
-# ensemble_alzheimer_detection
+## Different ensembling techniques for detection of Alzheimer's disease progression. 
+
+**Keywords**: ensemble learning, des, voting, stacking
